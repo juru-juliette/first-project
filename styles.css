@@ -1,13 +1,13 @@
 .first{
     background-image: url("https://cdn.pixabay.com/photo/2016/11/29/06/18/home-office-1867761_960_720.jpg");
     /* position: absolute; */
-    height: 70%;
+    height:100%;
     width: 100%;
     background-size: cover;
     background-position: top;
     background-color: rgba(0, 0, 0, 0.7);
     padding: 15px;
-    margin-bottom: 70px;
+    margin-bottom: 100px;
   
     
 }
@@ -50,6 +50,4 @@ h3
     text-align: center;
     color: #000;
 }
-#intro{
-    margin-top: 70px;
-}
+
